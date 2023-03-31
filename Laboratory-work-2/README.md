@@ -1,0 +1,1 @@
+https://github.com/Pavel-Horol/WebAR-Clock/tree/Booklet_with_pattern_marker
