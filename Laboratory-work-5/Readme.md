@@ -22,4 +22,5 @@
 ![image](https://user-images.githubusercontent.com/83709388/230899883-b220a4be-0db6-4545-aab9-75fa25f56790.png)
 * копіювання файлів в фолдер на серверний лінукс
 
-
+![image](https://user-images.githubusercontent.com/83709388/230899987-2cf03a03-4ba5-43dc-8377-18fa321892ae.png)
+* ось вони тільки вже на ос
