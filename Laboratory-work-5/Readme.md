@@ -43,6 +43,9 @@
 ![image](https://user-images.githubusercontent.com/83709388/230905911-589ce182-2494-412a-8d21-3d7d82647ed7.png)
 * таблиця з правами доступу
 
-![image](https://user-images.githubusercontent.com/83709388/230916270-936ad611-b481-40de-b76b-8d1090e26ff4.png)
-* виконання завдання 2.3.2
+![image](https://user-images.githubusercontent.com/83709388/230917135-28f2635d-40ab-4dd0-9e08-68432ec24a43.png)
+* надання прав доступу буквеним типо за варіантом 24 (в мене при спробі u+r видало що такий запис невалідний тому г=к)
+
+![image](https://user-images.githubusercontent.com/83709388/230917356-f6bd1c9c-f5f4-4889-934f-a38778f99b7c.png)
+* надання прав доступу численим типо за варіантом 24
 
