@@ -24,3 +24,13 @@
 
 ![image](https://user-images.githubusercontent.com/83709388/230899987-2cf03a03-4ba5-43dc-8377-18fa321892ae.png)
 * ось вони тільки вже на ос
+
+### Аналіз типів данних
+![image](https://user-images.githubusercontent.com/83709388/230901258-672e26e7-76ca-459d-b76e-d94c163b107b.png)
+* stat 
+
+![image](https://user-images.githubusercontent.com/83709388/230901675-1b97652f-d19e-47c9-a62d-d1df2d6c0a37.png)
+* мета опис всіх файлів
+
+![image](https://user-images.githubusercontent.com/83709388/230902490-b673f0ab-ac75-4b06-8aba-3b3ab3ad0565.png)
+* створення жорсткого та символічного зв'язку
