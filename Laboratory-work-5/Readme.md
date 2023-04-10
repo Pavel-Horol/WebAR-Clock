@@ -1,2 +1,25 @@
 ## «Основи керування файлами у файловій системі Unix-подібних ОС»
 ### 1 Робота з віддаленим Linux-сервером через термінальний режим роботи
+
+![image](https://user-images.githubusercontent.com/83709388/230898863-295c07bc-ca61-45c2-8f34-ffa76dff8448.png)
+* я вже мінв пароль тому ось так
+
+![image](https://user-images.githubusercontent.com/83709388/230899101-6a7c1be2-eb4a-488a-b0bb-ff6823252a47.png)
+* я ще давно налащтував з'єднання без паролю, ось доказ
+
+![image](https://user-images.githubusercontent.com/83709388/230899449-c764c654-1782-44dd-87a6-734137aa4b8c.png)
+* отримання /etc/passwd
+
+![image](https://user-images.githubusercontent.com/83709388/230899578-a9bcd908-1c97-4f3c-8b7f-04ecea84e637.png)
+* отримання /etc/group
+
+![image](https://user-images.githubusercontent.com/83709388/230899698-204348a9-ef48-4823-80f6-8ada57bb5753.png)
+* список активних псевдотерміналів
+
+![image](https://user-images.githubusercontent.com/83709388/230899801-86657029-9f80-466b-a982-1e5ea059ff8d.png)
+* обмін повідомленями з двух терміналів
+
+![image](https://user-images.githubusercontent.com/83709388/230899883-b220a4be-0db6-4545-aab9-75fa25f56790.png)
+* копіювання файлів в фолдер на серверний лінукс
+
+
