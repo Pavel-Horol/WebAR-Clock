@@ -43,4 +43,6 @@
 ![image](https://user-images.githubusercontent.com/83709388/230905911-589ce182-2494-412a-8d21-3d7d82647ed7.png)
 * таблиця з правами доступу
 
+![image](https://user-images.githubusercontent.com/83709388/230916270-936ad611-b481-40de-b76b-8d1090e26ff4.png)
+* виконання завдання 2.3.2
 
