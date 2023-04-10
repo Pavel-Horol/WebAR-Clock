@@ -37,3 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/83709388/230902691-fa702c08-6629-4c27-a8e3-d2dfb0c5cb7a.png)
 * дані про створені файли-зв'зки
+
+### 3 Керування правами доступу до файлів
+
+![image](https://user-images.githubusercontent.com/83709388/230905911-589ce182-2494-412a-8d21-3d7d82647ed7.png)
+* таблиця з правами доступу
+
+
