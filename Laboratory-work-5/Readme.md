@@ -34,3 +34,6 @@
 
 ![image](https://user-images.githubusercontent.com/83709388/230902490-b673f0ab-ac75-4b06-8aba-3b3ab3ad0565.png)
 * створення жорсткого та символічного зв'язку
+
+![image](https://user-images.githubusercontent.com/83709388/230902691-fa702c08-6629-4c27-a8e3-d2dfb0c5cb7a.png)
+* дані про створені файли-зв'зки
